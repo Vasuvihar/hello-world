@@ -5,6 +5,6 @@
 <h1> This is final CI/CD pipeline </h1>
 <h2> Im vasuvihar DEVOPS Engineer </h2>
 </P>
-<h2> NOW it can actually build and deploy on 2 VM with containers</h2>
+<h3> NOW it can actually build and deploy on 2 VM with containers</h3>
 </html>
 
