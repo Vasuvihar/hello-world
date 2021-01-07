@@ -5,6 +5,6 @@
 <h1> Deploying war file to VM Tomcat </h1>
 <h2> testing for poll scm auto buidling job by jenkins and deploying into VM </h2>
 <h3> webhook testing </h3>
-<p> webhhok testing within 1 minn </p>
+<p> using PAT for github coz of https </p>
 </html>
 
