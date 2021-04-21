@@ -1,8 +1,8 @@
 <html>
 <title> VM with CONTAINER </title>
-<p>
-  <h1><i> Hello, Welcome to Simple DevOps Project !! </i></h1>
 
+  <h1><i> Hello, Welcome to Simple DevOps Project !! </i></h1>
+  <h2> MuleSoft Developer </h2>
 </html>
 
 
