@@ -1,10 +1,8 @@
 <html>
-<title> VM with CONTAINER </title>
+<title> WebPage on VM's </title>
 
   <h1><i> Hello, Welcome to Simple DevOps Project !! </i></h1>
-  <h2> MuleSoft Developer </h2>
-  <h3> testing PoLLSCM for every minute </h3>
-  <h4> now we have deployed to container by ANSIBLE-PLAYBOOK JOB pollscm </h4>
+  <h1>Bubye!!</h1>
 </html>
 
 
